@@ -8,3 +8,10 @@ This includes
 - Howdy face recognition
 - Power management tweaks 
 
+## Installation
+
+Run the below command in your bash shell
+
+    curl -fsSL https://raw.githubusercontent.com/purinda/Ubuntu-DELL-XPS-9310-Configuration/master/install.sh -o install.sh && \
+    chmod +x ./install.sh && \
+    sudo ./install.sh
