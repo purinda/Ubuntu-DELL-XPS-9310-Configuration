@@ -89,3 +89,6 @@ PLATFORM_PROFILE_ON_BAT=low-power
 EOF'
 
 service tlp restart
+
+echo
+echo "Done"
